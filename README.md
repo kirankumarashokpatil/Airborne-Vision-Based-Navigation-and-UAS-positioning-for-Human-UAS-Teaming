@@ -1,0 +1,2 @@
+# Airborne-Vision-Based-Navigation-and-UAS-positioning-for-Human-UAS-Teaming
+A potential challenge to effective human-UAS teaming is determining the UAS’ position and  orientation in relation to the human. For example, if a UAS (or number of UAS) were to aid in the  search of a missing person in a difficult environment, the UAS would need to guide the searcher  to the missing person by sharing their relative position.  
