@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+matplotlib
+pandas
+ultralytics
+numpy
+yolov5  # Add the yolov5 object detection model as per your setup
